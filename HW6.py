@@ -200,6 +200,9 @@ class TestHomework6(unittest.TestCase):
     #     bmi = calculate_bmi(self.filename)
     #     self.assertEqual(len(bmi), 59)
     #     self.assertAlmostEqual(bmi['Greedo'], 24.73)
+
+    #Finished the HW before creating a public repo so writing these here to get the commit points
+    #Commit 1
     
 if __name__ == "__main__":
     unittest.main(verbosity=2)
